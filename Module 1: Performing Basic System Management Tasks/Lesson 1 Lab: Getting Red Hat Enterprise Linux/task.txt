@@ -1,0 +1,3 @@
+Lesson 1 Lab: Getting Red Hat Enterprise Linux
+
+    Create an account on developers.redhat.com and download a copy of Red Hat Enterprise Linux.
