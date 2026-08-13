@@ -1,30 +1,7 @@
 <div align="center">
-<pre style="font-family: 'Ubuntu Mono', Consolas, 'Courier New', monospace; background-color: #0d1117; padding: 20px; border-radius: 8px; line-height: 1.2; width: fit-content; text-align: left; margin: 0 auto;">
-<span style="color: #CC0000; font-weight: bold;">
-           .MMM..:MMMMMMM
-          MMMMMMMMMMMMMMMMMM
-          MMMMMMMMMMMMMMMMMMMM.
-         MMMMMMMMMMMMMMMMMMMMMM
-        ,MMMMMMMMMMMMMMMMMMMMMM:
-        MMMMMMMMMMMMMMMMMMMMMMMM
-  .MMMM'  MMMMMMMMMMMMMMMMMMMMMM
- MMMMMM    `MMMMMMMMMMMMMMMMMMMM.
-MMMMMMMM      MMMMMMMMMMMMMMMMMM .
-MMMMMMMMM.       `MMMMMMMMMMMMM' MM.
-MMMMMMMMMMM.                     MMMM
-`MMMMMMMMMMMMM.                 ,MMMMM.
- `MMMMMMMMMMMMMMMMM.          ,MMMMMMMM.
-    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:
-         MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-            `MMMMMMMMMMMMMMMMMMMMMMMM:
-                ``MMMMMMMMMMMMMMMMM'
-</span>
-
-</pre>
+  <img src="ascii.svg">
   <h1>RHCSA Study Notes & Labs</h1>
 </div>
-
 
 
 This repository contains lab solutions for the **Red Hat Certified System Administrator (RHCSA)** course by **Sander van Vugt**.

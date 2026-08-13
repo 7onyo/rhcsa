@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 320" width="360" height="320">
+  <rect width="100%" height="100%" fill="#0d1117" rx="8"/>
+  <text font-family="'Ubuntu Mono', Consolas, 'Courier New', monospace" font-size="14" fill="#CC0000" font-weight="bold" xml:space="preserve">
+    <tspan x="12" y="24">           .MMM..:MMMMMMM</tspan>
+    <tspan x="12" dy="1.2em">          MMMMMMMMMMMMMMMMMM</tspan>
+    <tspan x="12" dy="1.2em">          MMMMMMMMMMMMMMMMMMMM.</tspan>
+    <tspan x="12" dy="1.2em">         MMMMMMMMMMMMMMMMMMMMMM</tspan>
+    <tspan x="12" dy="1.2em">        ,MMMMMMMMMMMMMMMMMMMMMM:</tspan>
+    <tspan x="12" dy="1.2em">        MMMMMMMMMMMMMMMMMMMMMMMM</tspan>
+    <tspan x="12" dy="1.2em">  .MMMM'  MMMMMMMMMMMMMMMMMMMMMM</tspan>
+    <tspan x="12" dy="1.2em"> MMMMMM    `MMMMMMMMMMMMMMMMMMMM.</tspan>
+    <tspan x="12" dy="1.2em">MMMMMMMM      MMMMMMMMMMMMMMMMMM .</tspan>
+    <tspan x="12" dy="1.2em">MMMMMMMMM.       `MMMMMMMMMMMMM' MM.</tspan>
+    <tspan x="12" dy="1.2em">MMMMMMMMMMM.                     MMMM</tspan>
+    <tspan x="12" dy="1.2em">`MMMMMMMMMMMMM.                 ,MMMMM.</tspan>
+    <tspan x="12" dy="1.2em"> `MMMMMMMMMMMMMMMMM.          ,MMMMMMMM.</tspan>
+    <tspan x="12" dy="1.2em">    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM</tspan>
+    <tspan x="12" dy="1.2em">      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:</tspan>
+    <tspan x="12" dy="1.2em">         MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM</tspan>
+    <tspan x="12" dy="1.2em">            `MMMMMMMMMMMMMMMMMMMMMMMM:</tspan>
+    <tspan x="12" dy="1.2em">                ``MMMMMMMMMMMMMMMMM'</tspan>
+  </text>
+</svg>
