@@ -1,0 +1,7 @@
+Lesson 5 Lab: Using the Bash Shell
+
+    Set a variable color to the value red and ensure that this setting is available every time your current user account logs in.
+
+    Also create an alias that runs the command ls -ltr while executing the dir command.  
+
+    Ensure that the Bash History file can grow to a maximum size of 2500 entries.

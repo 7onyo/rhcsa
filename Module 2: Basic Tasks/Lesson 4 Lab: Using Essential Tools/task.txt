@@ -1,0 +1,9 @@
+Lesson 4 Lab: Using Essential Tools
+
+    Locate the man page that shows how to set a password.
+
+    Use the man page for useradd and create a user with the name anna
+
+    Set the password for user anna to password.
+
+    Use vim/nano to create a file with the name users, and make sure that it contains the names alex, alexander, linda, and belinda on separate lines.

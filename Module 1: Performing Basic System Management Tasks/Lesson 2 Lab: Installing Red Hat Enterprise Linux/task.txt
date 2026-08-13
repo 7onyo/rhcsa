@@ -1,0 +1,17 @@
+Lesson 2 Lab: Installing Red Hat Enterprise Linux
+
+Install a RHEL Server that meets the following requirements:
+
+    Make sure a graphical user interface is installed
+
+    Configure a 10GiB Root partition
+
+    Use a 1GiB Swap partition
+
+    Make sure that at least 4GiB of disk space remains as unused
+
+    Set the root password to “password”
+
+    Create a user <USER_NAME> with the password <USER_PASSWORD>
+
+    Configure the network interface to contact a DHCP Server

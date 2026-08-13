@@ -1,0 +1,7 @@
+Lesson 3 Lab: Using the Command Line
+
+    Log in to the graphical system using your default user account.
+
+    Open a terminal window and type the who command to find out which users are active.
+
+    Use the command who --help to get a short usage overview for this command.
