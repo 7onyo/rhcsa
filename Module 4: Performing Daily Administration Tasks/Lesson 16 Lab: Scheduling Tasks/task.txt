@@ -1,0 +1,8 @@
+Lesson 16 Lab: Scheduling Tasks
+
+    Ensure the systemd timer that cleans up tmp files is enabled.
+
+    Run a cron job that will issue the command touch /tmp/cronfile 5 minutes from now as user linda.
+
+    Use at to schedule a job to power off your system at a convenient time later today.
+

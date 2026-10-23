@@ -1,0 +1,6 @@
+Lesson 15 Lab: Working with Systemd
+
+    Make sure the httpd service is automatically started.
+
+    Edit its configuration such that on failure, it will continue after 1 minute.
+

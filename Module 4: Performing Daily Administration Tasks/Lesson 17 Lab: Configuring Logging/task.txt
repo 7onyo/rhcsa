@@ -1,0 +1,9 @@
+Lesson 17 Lab: Configuring Logging
+
+    Make sure the systemd journal is persistent.
+
+    Create an entry in rsyslog that writes all messages with a severity of error or higher to /var/log/error.
+
+    Ensure that /var/log/error is rotated on a monthly basis, and the last 12 logs are kept before they are rotated out.
+
+

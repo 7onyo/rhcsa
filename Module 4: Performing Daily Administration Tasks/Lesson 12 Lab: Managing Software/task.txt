@@ -1,0 +1,7 @@
+Lesson 12 Lab: Managing Software
+
+    Ensure your system is using a repository for base packages as well as application streams.
+
+    Find the package that contains the seinfo program file and install it.
+
+    Install Firefox as a Flatpak application.
