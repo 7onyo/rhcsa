@@ -1,0 +1,7 @@
+Lesson 10 Lab: Managing Permissions
+
+    Create a shared group directory structure /data/profs and /data/students that meets the following condition.
+
+    Members of the groups have full read and write access to their directories, others have no permissions at all.
+
+    Use the appropriate command to print a list of files that have the SUID permission set.

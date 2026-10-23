@@ -1,0 +1,11 @@
+Lesson 9 Lab: Managing Users and Groups
+
+    Make sure that new users require a password with a maximal validity of 90 days.
+
+    Ensure that while creating users, an empty file with the name newfile is created to their home directory.
+
+    Create users anna, anouk, linda, and lisa.
+
+    Set the passwords for anna and anouk to password, disable the passwords for linda and lisa.
+
+    Create the groups profs and students, and make users anna and anouk members of profs, and linda and lisa members of students.

@@ -1,0 +1,7 @@
+Lesson 6 Lab: Using Essential File Management Tools
+
+    Use tar to create a compressed archive of all files in the /etc and /opt directories. Write this archive to your home directory.
+
+    Create a symbolic link to the archive you've just created in the /tmp directory.
+
+    Remove the archive from your home directory. What happens to the symbolic link?
