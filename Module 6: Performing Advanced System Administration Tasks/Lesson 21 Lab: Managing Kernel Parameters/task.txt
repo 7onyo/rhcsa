@@ -1,0 +1,5 @@
+Lesson 21 Lab: Managing Kernel Parameters
+
+    Find the appropriate parameter to disable answers to ping requests (hint: look for icmp)
+
+    Test if it works by using ping localhost

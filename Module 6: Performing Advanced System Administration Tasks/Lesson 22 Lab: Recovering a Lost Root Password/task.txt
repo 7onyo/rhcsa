@@ -1,0 +1,3 @@
+Lesson 22 Lab: Recovering a Lost Root Password
+
+    Let's assume you have lost the root user password. Reset it.
