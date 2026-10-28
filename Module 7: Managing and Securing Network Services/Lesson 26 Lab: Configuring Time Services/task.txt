@@ -1,0 +1,5 @@
+Lesson 26 Lab: Configuring Time Services
+
+    Configure your system to synchronize time with the servers in pool.ntp.org.
+
+    Also, configure your local NTP process to advertise time services as a stratum 10 server.

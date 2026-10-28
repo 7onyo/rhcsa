@@ -1,0 +1,4 @@
+Lesson 24 Lab: Managing SSH
+    Set up your SSH server in such a way that SSH offers services on port 22, user root is allowed to log in.
+
+    To perform this lab, use localhost as the server address.

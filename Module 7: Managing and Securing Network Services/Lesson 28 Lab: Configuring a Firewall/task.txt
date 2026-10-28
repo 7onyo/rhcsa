@@ -1,0 +1,5 @@
+Lesson 28 Lab: Configuring a Firewall
+
+    In this lab, you will configure firewalld such that remote access to SSH and FTP processes is allowed.
+
+    Make sure the configuration is supplied immediately as well as persistently.
