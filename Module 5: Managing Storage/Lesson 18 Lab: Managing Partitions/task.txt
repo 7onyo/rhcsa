@@ -1,0 +1,7 @@
+Lesson 18 Lab: Managing Partitions
+
+    To work on this lab, you'll need to create a 10GiB additional hard disk on your virtual machine. This disk needs to be completely available.
+
+    Create a partition with a size of 1 GiB. Format it with Ext4, and mount it persistently on /mounts/files, using its UUID.
+
+    Create a 512MiB swap partition and mount it persistently.
